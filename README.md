@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+The repositories listed on my profile are not a complete list of my projects, see also:
+- [Factorio Mods](https://github.com/Darcys-Factorio-Mods)
+- [Forks](https://github.com/Darcys-Forks)
 <!--
 **DarcyManoel/DarcyManoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
